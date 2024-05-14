@@ -34,7 +34,7 @@ The Amazon Product Review Authenticator Classifier is a machine learning model a
 
 ## Web Application
 
-- **API Endpoint**: The `app.py` script utilizes FastAPI to create an API endpoint that accepts a product URL as input and returns individual reviews along with their labels.
+- **API Endpoint**: The `init.py` script utilizes FastAPI to create an API endpoint that accepts a product URL as input and returns individual reviews along with their labels.
 
 ## Installation and Usage
 
